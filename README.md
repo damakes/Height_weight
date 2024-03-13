@@ -1,1 +1,13 @@
-# Populating-table-from-file
+# HEIGHT/WEIGHT DISTRIBUTION IN weight-height.csv
+
+HEIGHT DISTRIBUTION IN DATA OF 10000 PERSONS
+Mean: 168.57
+Median: 168.45
+Std Dev: 9.77
+Var: 95.50
+
+WEIGHT DISTRIBUTION IN DATA OF 10000 PERSONS
+Mean: 73.23
+Median: 73.12
+Std Dev: 14.56
+Var: 212.09
