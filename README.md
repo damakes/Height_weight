@@ -1,4 +1,4 @@
-# HEIGHT/WEIGHT DISTRIBUTION
+# Height_weight
 ![Gender](https://github.com/damakes/Populating-table-from-file/assets/155246347/7ac5ca3b-b955-48cc-b211-7eaea294ac06)
 HEIGHT DISTRIBUTION IN DATA OF 10000 PERSONS
 ```
